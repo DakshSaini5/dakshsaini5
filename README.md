@@ -1,5 +1,3 @@
-## Hi there 👋
-
 💫 About Me:
 Hey, I’m Daksh Saini 👋
 Full Stack Developer — Frontend-first, Backend-capable.
