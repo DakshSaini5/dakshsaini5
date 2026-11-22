@@ -2,7 +2,7 @@
 
 Hey, I'm **Daksh Saini** 👋<br>
 Full Stack Developer: Frontend-first, Backend-capable (the backend and I are on good terms, the frontend and I are in a relationship).<br>
-I build complete, production-ready web and mobile products. My superpower is crafting fast, clean, pixel-perfect frontends with React and React Native, backed by real Node.js + MySQL experience on the server side. BCA student at Maharaja Surajmal Institute, New Delhi · Hackathon performer · DSA grinder · Professional 3 AM debugger.<br><br>
+I build complete, production-ready web and mobile products. My superpower is crafting fast, clean, pixel-perfect frontends with React and React Native, backed by real Node.js + MySQL experience on the server side. BCA student at Maharaja Surajmal Institute, New Delhi · Hackathon performer · Not a 3 AM debugger: I understand the code, work on it, and hand you the result long before 3 AM shows up.<br><br>
 
 🔭 **I'm currently working on**<br>
 Sharpening my Java DSA skills, grinding through data structures and algorithms daily. Yes, I will reverse a linked list for fun. No, I do not know why.<br><br>
@@ -28,7 +28,7 @@ Data Structures & Algorithms in Java, because apparently `console.log` can't sol
 <br>
 
 ⚡ **Fun fact**<br>
-I bridged a Unity irrigation game into a native Android app using a Java bridge, and that same project won **1st place at the SIH Internal Round** out of 40+ teams. Oh, and I've represented Air Force School at the **Subroto Cup International Football Tournament**. Turns out sprinting on a football pitch and debugging at 3 AM require the same energy: pure panic, powered by determination. ⚽
+I bridged a Unity irrigation game into a native Android app using a Java bridge, and that same project won **1st place at the SIH Internal Round** out of 40+ teams. Oh, and I've represented Air Force School at the **Subroto Cup International Football Tournament**. Turns out sprinting on a football pitch and beating a hackathon deadline require the same energy: pure focus, powered by determination. ⚽
 
 🛠️ **Tech Stack**<br>
 **Languages:** JavaScript (ES6+) · Java · C (yes, I've survived pointers)<br>
